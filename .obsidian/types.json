@@ -1,0 +1,15 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Data": "text",
+    "Keywords": "multitext",
+    "Notas Permanentes": "multitext",
+    "Notas de Literatura": "multitext",
+    "Year": "date",
+    "Author": "multitext",
+    "Authors": "multitext",
+    "Filiations": "multitext"
+  }
+}
